@@ -2,6 +2,6 @@
 testing
 
 
-'''
+```
 sudo yum install git
-'''
+```
